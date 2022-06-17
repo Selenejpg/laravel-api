@@ -1,4 +1,5 @@
 window.Vue = require('vue');
+//axios = require('axios');
 
 import Vue from 'vue';
 import App from './components/App.vue';
